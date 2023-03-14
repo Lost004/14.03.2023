@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+header{
+    background-color: rgba(79, 110, 79, 0.767);
+}
+header ul li {
+    display: inline;
+    margin-left:30px;
+}
+header ul li a{
+    text-decoration: none;
+    color: #d4d0d0;
+}
+header ul li a:hover{
+    color: #fff;
+}
+.section-three .button:hover{
+    color: #fff;
+}
+.icon i{
+
+    color: #fff;
+    font-size: 40px;
+}
+.section-one{
+    background-color: #d4d4d4;
+}
+.section-one h2{
+ text-align:center;
+}
+.section-one .custom-card {
+    box-shadow: 0 3px 5px 3px rgb(182, 182, 182) ;
+}
+.section-two{
+    background-color: #ccc;
+}
+.section-one h2{
+    color: rgba(83, 117, 83, 0.911);
+}
+.section-three{
+    justify-content: space-between;
+    background-color: #fff;
+}
+.end{
+    background-color:  rgba(79, 110, 79, 0.767);
+}
